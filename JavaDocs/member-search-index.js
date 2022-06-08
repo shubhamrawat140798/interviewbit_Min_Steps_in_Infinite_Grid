@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.arraytraversal","c":"PointTraversal","l":"coverPoint(ArrayList<Integer>, ArrayList<Integer>)","url":"coverPoint(java.util.ArrayList,java.util.ArrayList)"},{"p":"com.arraytraversal","c":"PointTraversal","l":"PointTraversal()","url":"%3Cinit%3E()"}]
